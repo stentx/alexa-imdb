@@ -1,0 +1,15 @@
+{
+  "name": "Alexa-Imdb",
+  "version": "1.0.0",
+  "description": "A sample Alexa app",
+  "main": "index.js",
+  "author": "Matt Kruse <github@mattkruse.com> (http://mattkruse.com/)",
+  "license": "ISC",
+  "alexa": {
+    "applicationId": ""
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0",
+    "omdb": "^0.7.0"
+  }
+}
